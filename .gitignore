@@ -1,1 +1,4 @@
 node_modules
+/.cach
+/dist
+package-lock.json
